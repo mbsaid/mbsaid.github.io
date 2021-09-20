@@ -1,6 +1,13 @@
+---
 layout: page
 title: post
-subtitle: Mohamed Said is MS-SEDA student at Arizona State University.
+subtitle: Code with ME
 ---
 
-My name is Mohamed I am graduate student at Arizona State University
+My name is Mohamed Said. I am 
+
+- a PEDA student at Arizona
+-  program Offcier for SIDRA
+
+
+
