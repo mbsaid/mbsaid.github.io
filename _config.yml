@@ -1,4 +1,4 @@
-# Welcome to My Beautiful Jekyll!
+# Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: "Mohamed Blog"
+title: My Website
 
 # Your name to show in the footer
-author: "Mohamed Said"
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Mohamed is Masters of Program Evaluation and Data Analytics Student at Arizona State University also he has done BSc in Natural Resources Management at Jigjiga University. Now works with SIDRA Institute as program officer"
+  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://mbsaid.github.io/mbsaid-mbsaid.github.io-beautiful-jekyll/"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -39,17 +39,29 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mbsaid@asu.edu"
-  facebook: "https://www.facebook.com/mohamedbashirsaid.barafuun"
-  github: "https://twitter.com/mbashirsaid98"
-  twitter: https://twitter.com/mbashirsaid98"
-  patreon: "https://github.com/mbsaid"
-medium: "Mohamed"
-reddit: "Mohamed"
-linkedin: "https://www.linkedin.com/in/mohamed-b-said-613895156/"
-xing: "Mohamed"
-stackoverflow: "3943160/daattali"
-instagram: "https://www.instagram.com/m.bashir.s/"
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
+#  medium: yourname
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -62,8 +74,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  Instagram: true
-    vk: false
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -88,13 +99,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
+text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -223,4 +235,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
