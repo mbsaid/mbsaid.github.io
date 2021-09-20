@@ -14,7 +14,7 @@ author: Mohamed Said
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: Mohamed Said iS Program Evaluation and Data Analytics student at Arizona State University
+  About Me: "Code with Mohamed"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
