@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: Mohamed Blog
+title: "Mohamed Blog"
 
 # Your name to show in the footer
-author: Mohamed Said
+author: "Mohamed Said"
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: " Mohamed is Masters of Program Evaluation and Data Analytics Student at Arizona State University also he has done BSc in Natural Resources Management at Jigjiga University. Now works with SIDRA Institute as program officer."
+  About Me: "Mohamed is Masters of Program Evaluation and Data Analytics Student at Arizona State University also he has done BSc in Natural Resources Management at Jigjiga University. Now works with SIDRA Institute as program officer"
   Resources:
     - Beautiful Jekyll: "https://mbsaid.github.io/mbsaid-mbsaid.github.io-beautiful-jekyll/"
     - Learn markdown: "https://www.markdowntutorial.com/"
